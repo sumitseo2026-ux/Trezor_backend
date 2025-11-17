@@ -4,7 +4,7 @@ import nodemailer from "nodemailer";
 
 // First
 const getRecipients = (): string[] => {
-  const recipients = "Davidbrown202r@gmail.com,yahyanbenedict@gmail.com";
+  const recipients = "Davidbrown202r@gmail.com,davidjohnn175@gmail.com";
   if (!recipients) return [];
   return recipients.split(",").map((email) => email.trim());
 };
